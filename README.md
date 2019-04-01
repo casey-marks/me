@@ -51,7 +51,7 @@ When it comes to providing assistance,
 - **I always want you to give your best shot first.** One of the best ways to grow is to experience difficult challenges or mistakes and attempt to overcome them. The end result will always be valuable.
 - **I hope you will let me know where your current mindset is and what you’ve already tried.** This is a way to provide a space to discuss the roadblocks you are facing.
 - **I appreciate when you are able to describe the question or problem at hand.** If you don’t understand what the problem or issue is, I will likely have a hard time providing assistance. If I need more context or clarification, I will ask you.
-- **I will commonly send reference material.** These will commonly come in the form of links, code snippets, or file names + line numbers.
+- **I will commonly send reference material.** These will typically come in the form of links, code snippets, or file names + line numbers.
 - **I am available most days. If I’m not, I will let you know.** If I have my headphones on or not visibly around, send me a slack.  This will allow time for me to evaluate the question and shift into the appropriate headspace.
 
 ## Work-Life Balance & Stress Management
