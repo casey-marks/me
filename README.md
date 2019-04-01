@@ -2,7 +2,7 @@
 
 
 ## Passions and Interests:
-<img src="images/mind-blown.gif" align="left" width=75 /> I have a great passion for table tennis.* This is a great way for me to interact with others and to relieve stress. In recent years, I have also grown to love board games (such as Catan, 7 Wonders, Azul, etc.). I find that it’s a great way to bring people together and have a great time learning, getting to know each other, and for me, rarely winning.
+<img src="images/excited.gif" align="left" width=75 /> I have a great passion for table tennis.* This is a great way for me to interact with others and to relieve stress. In recent years, I have also grown to love board games (such as Catan, 7 Wonders, Azul, etc.). I find that it’s a great way to bring people together and have a great time learning, getting to know each other, and for me, rarely winning.
 
 > *Speaking of table tennis, my girlfriend wonders why I don’t just call it ping pong. My superstition leads me to believe it will make me better by using the term table tennis.
 
@@ -18,7 +18,7 @@ It is worth mentioning that I have almost no vision in my right eye.  If you nee
 
 
 ## Growth and Goals
-<img src="images/excited.gif" align="left" width=75 /> Working on projects that place me out of my comfort zone provide a great avenue for growth. I strive to challenge myself by adapting to change and trying new things. Recently, I’ve been putting a focus on identifying and pursuing new passion projects, application architecture (with a focus on serverless), and the latest services announced from AWS.
+<img src="images/mind-blown.gif" align="left" width=75 /> Working on projects that place me out of my comfort zone provide a great avenue for growth. I strive to challenge myself by adapting to change and trying new things. Recently, I’ve been putting a focus on identifying and pursuing new passion projects, application architecture (with a focus on serverless), and the latest services announced from AWS.
 I look forward to future plans of creating a meaningful SAAS platform by researching, planning, and building a service that is easy to implement and useful to its customer base. 
 
 
