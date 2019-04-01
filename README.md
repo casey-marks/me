@@ -1,4 +1,5 @@
-<img src="images/hi.gif" align="left" width=75 /> Hi, I’m Casey! I’ve gathered the following information to serve as a brief introduction to who I am, my interests, goals and how we can effectively make the best of our time together. This does not serve as a substitute for us getting to know one another around the office. I’m open to any feedback, so if you see any discrepancies or have any suggestions, please create an issue, pull request, or let me know. This is an ever changing document.
+## Hi, I’m Casey!
+<img src="images/hi.gif" align="left" width=75 /> I’ve gathered the following information to serve as a brief introduction to who I am, my interests, goals and how we can effectively make the best of our time together. This does not serve as a substitute for us getting to know one another around the office. I’m open to any feedback, so if you see any discrepancies or have any suggestions, please create an issue, pull request, or let me know. This is an ever changing document.
 
 
 ## Passions and Interests:
