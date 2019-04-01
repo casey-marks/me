@@ -62,8 +62,5 @@ Here are a few things that make sure I stay focused and mentally focused:
 - I believe that succeeding involves failures but I will learn and grow through mistakes.  By acknowledging that I will face adversity, it eases the pressure of perfection and I am able to focus on achieving the end goal.
 - When I am experiencing stress or stuck on a problem, it is helpful for me to take a step away (mentally or physically) from the issue and come back to it with a clear mind. You may see me take a walk around the office, grab a snack, or most likely playing table tennis.
 
-
-
-
-
-
+### And here's a picture of Caiden... just because.
+<img src="images/caiden-hunting.jpg" />
