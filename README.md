@@ -34,7 +34,7 @@ I also recognize that I have a somewhat monotone voice.  This may come off towar
 
 
 ## Office Hours
-<img src="images/thinking.gif" align="left" width=75 /> I hold open office hours every Wednesday for about 1-2 hours. You can use this time however you see fit. My office hour availability should be listed on my Google Calendar. I typically won’t be waiting in a meeting room, so if you want to talk just send me a message or ask me. We can meet anywhere in the building or whatever works best for you.
+<img src="images/thinking.gif" align="left" width=75 /> Every Wednesday I hold office hours in 30 minute blocks for about an hour or two.  You can view my office hour availability and reserve blocks of time with me through my calendar event "Office Hours".  When reserving a block, it is helpful if you are able to provide a simple outline detailing what you would like to talk about.  You can use this time however you see fit.
 
 Here are a few questions/examples of why you may decide to meet with me:
 - Have you recently run into a roadblock?
